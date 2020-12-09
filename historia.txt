@@ -1,1 +1,2 @@
-Este es la historia de Leo
+Este es la historia de Leo 
+Empezando a usar Git
